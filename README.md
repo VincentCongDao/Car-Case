@@ -3,9 +3,9 @@
 2. There are no "sign in" for this project (Maybe in the future, connecting to the AppWrite as Databases)
 3. I added the smoothscroll after when the user click submit button to view more to smooth scroll to the car list because Next.JS have a bug when it's in client side it automatically move to the top of the page when the URL change
 
-![Car Case Preview]()
+![Car Case Preview](https://github.com/VincentCongDao/Car-Case/blob/main/public/CarCase.gif)
 
-[Live](https://github.com/VincentCongDao/Car-Case/blob/main/public/CarCase.gif)
+[Live]()
 
 ## Tech Stack:
 `Front End:`
