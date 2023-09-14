@@ -5,7 +5,7 @@
 
 ![Car Case Preview]()
 
-[Live]()
+[Live](https://github.com/VincentCongDao/Car-Case/blob/main/public/CarCase.gif)
 
 ## Tech Stack:
 `Front End:`
