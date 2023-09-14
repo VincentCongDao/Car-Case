@@ -9,10 +9,10 @@
 
 ## Tech Stack:
 `Front End:`
-- [Next.JS]()
-- [CSS]()
-- [TailWindsCSS]()
-- [TypeScript]()
+- [Next.JS](https://nextjs.org/docs)
+- CSS
+- [TailWindsCSS](https://tailwindcss.com/docs/installation)
+- TypeScript
 
 `Databases:`
 - [RapidAPI]()
